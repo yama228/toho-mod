@@ -5,6 +5,8 @@
     "adjective": ["Gensokyo"],
     "startBias": ["Forest"],
     "preferredVictoryType": "Cultural",
+    "outerColor": [255,255,255],
+    "innerColor": [200,0,0],
 
     "uniqueName": "Boundary Guardian",
 
