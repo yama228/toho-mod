@@ -8,19 +8,152 @@
     "outerColor": [255,255,255],
     "innerColor": [200,0,0],
 
-    "uniqueName": "Boundary Guardian",
-
+    "uniqueName": "Hakurei Boundary",
     "uniques": [
-        "[+2 Culture] from every [Shrine]",
-        "[+1 Happiness] from every [Temple]",
-        "[+15]% [Culture] [in all cities]"
+    "[+3 Culture] from every [Shrine]",
+    "[+2 Happiness] from every [Temple]",
+    "[+15]% [Culture] [in all cities]",
+    "[+10]% [Gold] [in all cities]",
+    "[+1 Food] from every [Granary]",
+    "No damage penalty for wounded units <for [All] units>",
+    "[+25]% City Strength"
     ],
 
     "cities": [
-        "Hakurei Shrine",
-        "Youkai Mountain",
-        "Misty Lake",
-        "Human Village"
+        "博麗神社",
+        "人間の里",
+        "魔法の森",
+        "霧の湖",
+        "香霖堂",
+        "無縁塚",
+        "迷いの竹林",
+        "妖怪の山",
+        "三途の川",
+        "冥界",
+        "白玉楼",
+        "旧都",
+        "守矢神社",
+        "地霊殿"
+    ]
+    },
+    {
+    "name": "Koumakan",
+    "leaderName": "Remiria",
+    "adjective": ["Gensokyo"],
+    "startBias": ["Forest"],
+    "preferredVictoryType": "Cultural",
+    "outerColor": [255,255,255],
+    "innerColor": [200,0,0],
+
+"uniqueName": "Scarlet Rule",
+"uniques": [
+    "[+20]% Strength <for [All] units>",
+    "[+2 Gold] from every [Castle]",
+    "[+15]% [Production] [in all cities]",
+    "[+1 Culture] from every [Barracks]"
+],
+
+    "cities": [
+    "紅魔館",
+    "霧の湖",
+    "悪魔の館",
+    "地下図書館",
+    "妖精の湖畔",
+    "紅霧の森",
+    "吸血鬼城",
+    "夜雀の屋台",
+    "人里別荘",
+    "月光庭園"
+    ]
+    },
+        {
+    "name": "Eientei",
+    "leaderName": "Houraizan Kaguya",
+    "adjective": ["Gensokyo"],
+    "startBias": ["Forest"],
+    "preferredVictoryType": "Cultural",
+    "outerColor": [255,255,255],
+    "innerColor": [200,0,0],
+
+    "uniqueName": "Hourai Medicine",
+    "uniques": [
+    "[+30]% [Science] [in all cities]",
+    "[+2 Science] from every [Hospital]",
+    "[+1 Food] from every [University]"
+],
+
+    "cities": [
+    "永遠亭",
+    "迷いの竹林",
+    "竹林奥地",
+    "月の都",
+    "月面基地",
+    "鈴蘭畑",
+    "蓬莱山",
+    "薬草研究所",
+    "兎の里",
+    "月光研究所"
+    ]
+    },
+    {
+    "name": "Moriya shrine",
+    "leaderName": "Houraizan Kaguya",
+    "adjective": ["Gensokyo"],
+    "startBias": ["Forest"],
+    "preferredVictoryType": "Cultural",
+    "outerColor": [255,255,255],
+    "innerColor": [200,0,0],
+
+"uniqueName": "Miracle Faith",
+"uniques": [
+    "[+2 Faith] from every [Shrine]",
+    "[+15]% [Production] [in all cities]",
+    "[+1 Food] from every [Farm]"
+],
+
+    "cities": [
+        "守矢神社",
+        "妖怪の山",
+        "山頂湖",
+        "風の谷",
+        "河童工房",
+        "天狗里",
+        "九天の滝",
+        "山神領",
+        "早苗の村",
+        "神奈子の社"
+    ]
+    },
+    {
+    "name": "Youkai mountain",
+    "leaderName": "Houraizan Kaguya",
+    "adjective": ["Gensokyo"],
+    "startBias": ["Forest"],
+    "preferredVictoryType": "Cultural",
+    "outerColor": [255,255,255],
+    "innerColor": [200,0,0],
+
+"uniqueName": "Kappa Technology",
+"uniques": [
+    "[+1 Production] from every [Workshop]",
+    "[+2 Science] from every [Mine]",
+    "Units gain [1] extra movement"
+],
+
+    "cities": [
+        "妖怪の山",
+        "河童の沢",
+        "九天の滝",
+        "天狗の里",
+        "玄武の沢",
+        "守矢湖",
+        "山中工房",
+        "風神の丘",
+        "山岳基地",
+        "河童工廠",
+        "天魔の城",
+        "山頂要塞"
     ]
     }
+
 ]
