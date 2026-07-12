@@ -1,10 +1,20 @@
 [
     {
     "name": "Hakurei Shrine",
-    "leaderName": "Reimu",
+    "leaderName": "博麗霊夢",
     "adjective": ["Gensokyo"],
     "startBias": ["Forest"],
     "preferredVictoryType": "Cultural",
+    "startIntroPart1": "幻想郷の境界を守る博麗神社へようこそ。長きに渡り、博麗の巫女は人間と妖怪の均衡を保ち、この世界に起こる数々の異変を解決してきました。華やかな都や巨大な軍隊を持たずとも、その役割は何よりも重要であり、幻想郷の平和は彼女の手に委ねられています。",
+    "startIntroPart2": "博麗の巫女よ、あなたはこの世界の均衡を守り続けることができるでしょうか。迫り来る異変を解決し、人間と妖怪が共に歩む未来を築くことができるでしょうか。",
+    "declaringWar": "これ以上好き勝手はさせないわ。異変として解決させてもらう。",
+    "attacked": "まったく……面倒なことをしてくれるわね。",
+    "defeated": "幻想郷の均衡が……崩れてしまったのね。",
+    "introduction": "私は博麗の巫女。幻想郷の平和を守る者よ。",
+    "neutralHello": "あら、何か用？",
+    "hateHello": "また異変を起こすつもり？",
+    "tradeRequest": "悪くない話ね。これなら受けてもいいわ。",
+
     "outerColor": [255,255,255],
     "innerColor": [200,0,0],
 
@@ -15,8 +25,7 @@
     "[+15]% [Culture] [in all cities]",
     "[+10]% [Gold] [in all cities]",
     "[+1 Food] from every [Granary]",
-    "No damage penalty for wounded units <for [All] units>",
-    "[+25]% City Strength"
+    "No damage penalty for wounded units <for [All] units>"
     ],
 
     "cities": [
@@ -38,15 +47,23 @@
     },
     {
     "name": "Koumakan",
-    "leaderName": "Remiria",
+    "leaderName": "レミリア・スカーレット",
     "adjective": ["Gensokyo"],
     "startBias": ["Forest"],
-    "preferredVictoryType": "Cultural",
+    "preferredVictoryType": "Domination",
     "outerColor": [255,255,255],
     "innerColor": [200,0,0],
-
-"uniqueName": "Scarlet Rule",
-"uniques": [
+    "startIntroPart1": "紅魔館は幻想郷に存在する、吸血鬼によって支配された優雅なる館です。永い時を生きる主と、その忠実な従者たちは、力と知恵、そして気まぐれな遊戯によってその名を轟かせてきました。紅き霧が幻想郷を覆った日以来、紅魔館の存在感は誰も無視できないものとなっています。",
+    "startIntroPart2": "偉大なる吸血鬼よ、あなたは紅魔館の名を世界へ広げることができるでしょうか。永遠に続く夜の支配者として、歴史にその名を刻む覚悟はありますか。",
+    "declaringWar": "さあ、始めましょう。あなたがどれほど楽しませてくれるのか見てあげるわ。",
+    "attacked": "私に牙を向けるなんて、随分と大胆ね。",
+    "defeated": "こんな結末……運命が間違っているとでもいうの？",
+    "introduction": "私はレミリア・スカーレット。紅魔館の主よ。",
+    "neutralHello": "歓迎するわ。少しは楽しませてくれるのでしょうね？",
+    "hateHello": "またあなたなの。懲りないわね。",
+    "tradeRequest": "悪くない提案ね。取引として成立するでしょう。",
+    "uniqueName": "Scarlet Rule",
+    "uniques": [
     "[+20]% Strength <for [All] units>",
     "[+2 Gold] from every [Castle]",
     "[+15]% [Production] [in all cities]",
@@ -68,13 +85,21 @@
     },
         {
     "name": "Eientei",
-    "leaderName": "Houraizan Kaguya",
+    "leaderName": "八意永琳",
     "adjective": ["Gensokyo"],
     "startBias": ["Forest"],
     "preferredVictoryType": "Cultural",
     "outerColor": [255,255,255],
     "innerColor": [200,0,0],
-
+    "startIntroPart1": "永遠亭は迷いの竹林の奥深くに存在する、月の民によって築かれた知識と医療の拠点です。遥かな時を生きる賢者たちは、地上では失われた技術や秘薬を守り続けてきました。その膨大な知識と研究力は、幻想郷でも比類なきものです。",
+    "startIntroPart2": "月の知恵を受け継ぐ者よ、あなたは未知なる真理を追い求めることができるでしょうか。不老不死の技術と失われた知識をもって、時代を超える文明を築くことができるでしょうか。",
+    "declaringWar": "あなたの選択は興味深いわ。ならば、その結果を観測させてもらいましょう。",
+    "attacked": "なるほど……実験対象としては十分興味深いわね。",
+    "defeated": "計算外の結果ね……この未来は予測できなかったわ。",
+    "introduction": "私は八意永琳。永遠亭で研究を続ける者よ。",
+    "neutralHello": "訪問者ね。何か用かしら？",
+    "hateHello": "また来たのね。あなたの行動は実に興味深いわ。",
+    "tradeRequest": "その取引には合理性があるようね。受け入れましょう。",
     "uniqueName": "Hourai Medicine",
     "uniques": [
     "[+30]% [Science] [in all cities]",
@@ -97,15 +122,23 @@
     },
     {
     "name": "Moriya shrine",
-    "leaderName": "Houraizan Kaguya",
+    "leaderName": "八坂神奈子",
     "adjective": ["Gensokyo"],
     "startBias": ["Forest"],
-    "preferredVictoryType": "Cultural",
+    "preferredVictoryType": "Domination",
     "outerColor": [255,255,255],
     "innerColor": [200,0,0],
-
-"uniqueName": "Miracle Faith",
-"uniques": [
+    "startIntroPart1": "守矢神社は妖怪の山に建つ、二柱の神によって導かれる信仰の中心地です。外の世界から幻想郷へ移り住んだ守矢の神々は、奇跡と信仰によって人々を導き、豊かな土地と繁栄を築いてきました。その力は古き神々の威光と、新たな時代への適応力によって支えられています。",
+    "startIntroPart2": "山の神よ、あなたは信仰を広げ、人々に希望を与えることができるでしょうか。奇跡の力をもって、永く栄える国を築くことができるでしょうか。",
+    "declaringWar": "神の力を侮った報いを受けてもらいましょう。",
+    "attacked": "神に刃向かうとは……随分と勇気があるようね。",
+    "defeated": "これもまた、神が定めた運命ということかしら。",
+    "introduction": "私は八坂神奈子。守矢の神として、この地を導いているわ。",
+    "neutralHello": "よく来たわね。神への信仰に興味はあるかしら？",
+    "hateHello": "また争いを望むというの？",
+    "tradeRequest": "互いの繁栄につながる良い話ね。",
+    "uniqueName": "Miracle Faith",
+    "uniques": [
     "[+2 Faith] from every [Shrine]",
     "[+15]% [Production] [in all cities]",
     "[+1 Food] from every [Farm]"
@@ -126,19 +159,26 @@
     },
     {
     "name": "Youkai mountain",
-    "leaderName": "Houraizan Kaguya",
+    "leaderName": "天魔",
     "adjective": ["Gensokyo"],
     "startBias": ["Forest"],
-    "preferredVictoryType": "Cultural",
+    "preferredVictoryType": "Domination",
     "outerColor": [255,255,255],
     "innerColor": [200,0,0],
-
-"uniqueName": "Kappa Technology",
-"uniques": [
+    "startIntroPart1": "妖怪の山は、天狗と河童が暮らす幻想郷でも屈指の技術と情報の集積地です。山を支配する天狗たちは広大な情報網を築き、河童たちは独自の技術によって数々の道具や機械を生み出してきました。険しい山岳地帯に築かれたその勢力は、外部から容易に侵入できるものではありません。",
+    "startIntroPart2": "山を統べる者よ、あなたは天狗の知略と河童の技術をもって、新たな時代を切り開くことができるでしょうか。強固な山岳の要塞から世界へ影響を広げ、偉大なる文明を築くことができるでしょうか。",
+    "declaringWar": "警告は十分にしました。これより排除行動に移ります。",
+    "attacked": "山の秩序を乱す者には、相応の対応を取らせてもらいます。",
+    "defeated": "我々の情報網でも、この結末を予測することはできなかったか……。",
+    "introduction": "私は妖怪の山を統べる者。天狗と河童の力を代表している。",
+    "neutralHello": "情報は重要です。あなたの目的を聞きましょう。",
+    "hateHello": "また問題を起こしに来たのですか。",
+    "tradeRequest": "双方に利益のある取引を提案しましょう。",
+    "uniqueName": "Kappa Technology",
+    "uniques": [
     "[+1 Production] from every [Workshop]",
-    "[+2 Science] from every [Mine]",
-    "Units gain [1] extra movement"
-],
+    "[+2 Science] from every [Mine]"
+    ],
 
     "cities": [
         "妖怪の山",
