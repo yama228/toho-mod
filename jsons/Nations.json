@@ -1,0 +1,24 @@
+[
+    {
+    "name": "Hakurei Shrine",
+    "leaderName": "Reimu",
+    "adjective": ["Gensokyo"],
+    "startBias": ["Forest"],
+    "preferredVictoryType": "Cultural",
+
+    "uniqueName": "Boundary Guardian",
+
+    "uniques": [
+        "[+2 Culture] from every [Shrine]",
+        "[+1 Happiness] from every [Temple]",
+        "[+15]% [Culture] [in all cities]"
+    ],
+
+    "cities": [
+        "Hakurei Shrine",
+        "Youkai Mountain",
+        "Misty Lake",
+        "Human Village"
+    ]
+    }
+]
