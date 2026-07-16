@@ -194,6 +194,183 @@
         "天魔の城",
         "山頂要塞"
     ]
-    }
+    },
+    {
+"name": "Myouren Temple",
+"leaderName": "聖白蓮",
+"adjective": ["Gensokyo"],
+"startBias": ["Forest"],
+"preferredVictoryType": "Cultural",
+
+"outerColor": [120,80,180],
+"innerColor": [255,220,120],
+
+"startIntroPart1": "命蓮寺は、人間と妖怪が共に生きる未来を目指して建てられた寺院です。封印より蘇った僧侶・聖白蓮は、種族の違いを超えて互いを理解し合うことを願い、多くの仲間と共に平和な世界を築こうとしてきました。その教えは幻想郷全土へと広がり、多くの者に希望を与えています。",
+
+"startIntroPart2": "大僧正よ、あなたは慈悲と信念をもって人々を導くことができるでしょうか。信仰と調和によって幻想郷に新たな時代を築き、誰もが共に歩める文明を築くことができるでしょうか。",
+
+"declaringWar":"悲しいことですが、これ以上争いを見過ごすことはできません。",
+
+"attacked":"力で全てを解決できると思っているのですか。",
+
+"defeated":"それでも……いつか理解し合える日が来ると信じています。",
+
+"introduction":"私は聖白蓮。命蓮寺で人と妖怪の未来を願っています。",
+
+"neutralHello":"ようこそ。どうぞ落ち着いてお話ししましょう。",
+
+"hateHello":"争いを望むのなら……応えるしかありませんね。",
+
+"tradeRequest":"互いのためになる取引なら、喜んで受け入れましょう。",
+
+"uniqueName":"Harmony of Humans and Youkai",
+
+"cities":[
+"命蓮寺",
+"法界",
+"大祀堂",
+"飛倉",
+"封魔蔵",
+"星蓮船港",
+"修行院",
+"白蓮堂",
+"法輪院",
+"蓮華郷"
+]
+},
+{
+"name":"Chireiden",
+"leaderName":"古明地さとり",
+"adjective":["Gensokyo"],
+"startBias":["Hill"],
+
+"preferredVictoryType":"Science",
+
+"outerColor":[70,20,20],
+"innerColor":[180,90,140],
+
+"startIntroPart1":"地霊殿は旧地獄の深部に築かれた館であり、地底世界を見守る主・古明地さとりが治めています。地底には豊富な資源と強大な妖怪たちが暮らし、地獄の火は今なお文明を支える力として燃え続けています。",
+
+"startIntroPart2":"地底の主よ、あなたは閉ざされた世界を繁栄へ導くことができるでしょうか。地霊と灼熱の力をもって、誰も到達したことのない文明を築くことができるでしょうか。",
+
+"declaringWar":"あなたの本心……私にはすべて見えています。",
+
+"attacked":"そんな考えで勝てると思ったのですか。",
+
+"defeated":"心を読むだけでは、未来までは見えませんでしたね。",
+
+"introduction":"私は古明地さとり。地底を治めています。",
+
+"neutralHello":"あなたの心、少し興味があります。",
+
+"hateHello":"隠し事をしても無駄ですよ。",
+
+"tradeRequest":"双方に利益があるなら問題ありません。",
+
+"uniqueName":"Palace of the Earth Spirits",
+
+"cities":[
+"地霊殿",
+"旧地獄",
+"灼熱地獄跡",
+"間欠泉",
+"地獄温泉",
+"火焔地帯",
+"旧都",
+"地底都市",
+"黒煙鉱山",
+"灼熱工房"
+]
+},
+{
+"name":"Shinkirou Mausoleum",
+"leaderName":"豊聡耳神子",
+"adjective":["Gensokyo"],
+
+"startBias":["Hill"],
+
+"preferredVictoryType":"Diplomatic",
+
+"outerColor":[230,210,120],
+"innerColor":[120,40,20],
+
+"startIntroPart1":"神霊廟は古代の英傑たちが眠る霊廟であり、豊聡耳神子は卓越した知略と政治手腕によって新たな時代を切り開こうとしています。その言葉は多くの者を導き、国家の繁栄をもたらすでしょう。",
+
+"startIntroPart2":"聖徳王よ、あなたは知恵と威光によって世界を導くことができるでしょうか。数多の民の声を聞き、永遠に語り継がれる文明を築くことができるでしょうか。",
+
+"declaringWar":"対話では解決できないようですね。",
+
+"attacked":"その決断もまた、一つの歴史となるでしょう。",
+
+"defeated":"この時代の勝者は、あなたでしたか。",
+
+"introduction":"私は豊聡耳神子。この国を導く者です。",
+
+"neutralHello":"あなたの考えを聞かせてもらえますか。",
+
+"hateHello":"再び争いですか。残念ですね。",
+
+"tradeRequest":"双方の利益となる提案なら歓迎します。",
+
+"uniqueName":"Prince of Seventeen Articles",
+
+"cities":[
+"神霊廟",
+"仙界",
+"夢殿",
+"神子宮",
+"物部郷",
+"蘇我館",
+"太子殿",
+"霊廟都市",
+"豪族の里",
+"古都"
+]
+},
+{
+"name":"Lunar Capital",
+"leaderName":"綿月豊姫",
+"adjective":["Lunar"],
+
+"startBias":["Coast"],
+
+"preferredVictoryType":"Science",
+
+"outerColor":[240,240,255],
+"innerColor":[80,120,255],
+
+"startIntroPart1":"月の都は、月の民によって築かれた高度な文明です。穢れを遠ざけ、長い年月をかけて発展したその科学技術は、地上の文明をはるかに凌駕しています。静寂の都は今、新たな未来を見据えています。",
+
+"startIntroPart2":"月の姫君よ、あなたは月の叡智をもって新たな時代を切り開くことができるでしょうか。誰よりも進んだ文明を築き、星々へその名を刻むことができるでしょうか。",
+
+"declaringWar":"月の秩序を乱す者は排除します。",
+
+"attacked":"その程度の技術で月に挑むのですか。",
+
+"defeated":"地上にも、ここまでの文明が生まれるとは……。",
+
+"introduction":"私は綿月豊姫。月の都より参りました。",
+
+"neutralHello":"月の民として、礼を尽くしましょう。",
+
+"hateHello":"あなたとは価値観が違うようですね。",
+
+"tradeRequest":"技術交流は双方に利益をもたらすでしょう。",
+
+"uniqueName":"Lunar Civilization",
+
+"cities":[
+"月の都",
+"月都中央",
+"静海",
+"玉兎都市",
+"月面庭園",
+"天文府",
+"月都研究所",
+"静寂宮",
+"月都工廠",
+"神樹宮"
+]
+}
 
 ]
