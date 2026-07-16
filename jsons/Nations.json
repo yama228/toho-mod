@@ -334,7 +334,7 @@
 
 "startBias":["Coast"],
 
-"preferredVictoryType":"Science",
+"preferredVictoryType":"Scientific",
 
 "outerColor":[240,240,255],
 "innerColor":[80,120,255],
