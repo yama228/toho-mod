@@ -68,9 +68,9 @@
 "uniques": [
 "[+30]% Strength <for [All] units>",
 "[+20]% [Production] [in all cities]",
-"[+20]% [Gold] [in all cities]",
 "[+2 Gold] from every [Castle]",
 "[+2 Culture] from every [Barracks]",
+"[+25]% Great Person generation [in all cities]",
 "No damage penalty for wounded units <for [All] units>"
 ],
 
@@ -150,6 +150,7 @@
 "[+20]% [Production] [in all cities]",
 "[+20]% [Food] [in all cities]",
 "[+1 Food] from every [Farm]",
+"[+2 Faith] from every [Farm]",
 "[+1 Production] from every [Hydro Plant]",
 "[+15]% [Gold] [in all cities]"
 ],
@@ -191,7 +192,9 @@
 "[+2 Science] from every [Mine]",
 "[+2 Production] from every [Workshop]",
 "[+1 Production] from every [Factory]",
-"[+15]% Strength <for [All] units>"
+"[+15]% Strength <for [All] units>",
+"[+2 Science] from every [Workshop]",
+"[+2 Gold] from every [Trading Post]"
 ],
 
     "cities": [
@@ -241,6 +244,7 @@
 "uniques": [
 "[+30]% [Culture] [in all cities]",
 "[+20]% [Food] [in all cities]",
+"[+15]% [Faith] [in all cities]",
 "[+3 Happiness] from every [Temple]",
 "[+2 Culture] from every [Garden]",
 "[+15]% [Gold] [in all cities]",
@@ -295,7 +299,10 @@
 "[+2 Production] from every [Mine]",
 "[+1 Production] from every [Factory]",
 "[+1 Science] from every [Coal]",
-"[+15]% Strength <for [All] units>"
+"[+15]% Strength <for [All] units>",
+"[+30]% spy effectiveness [in all cities]"
+
+
 ],
 "cities":[
 "地霊殿",
@@ -347,7 +354,8 @@
 "[+2 Gold] from every [Market]",
 "[+2 Culture] from every [Courthouse]",
 "[+15]% Great Person generation [in all cities]",
-"[+10]% Strength <for [All] units>"
+"[+10]% Strength <for [All] units>",
+"[+1 Happiness] from every [Temple]"
 ],
 "cities":[
 "神霊廟",
