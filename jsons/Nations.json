@@ -421,6 +421,59 @@
 "月都工廠",
 "神樹宮"
 ]
+},
+{
+    "name": "Former Capital",
+    "leaderName": "星熊勇儀",
+    "adjective": ["Gensokyo"],
+
+    "startBias": ["Hill"],
+    "preferredVictoryType": "Domination",
+
+    "outerColor": [120,80,40],
+    "innerColor": [220,160,80],
+
+    "startIntroPart1": "旧都は、かつて地上から隔絶された旧地獄に築かれた鬼たちの都です。力を重んじる鬼たちは、強さと誇りを何よりも大切にし、自由な宴と豪快な文化を育んできました。その圧倒的な力は、幻想郷でも恐れられる存在です。",
+
+    "startIntroPart2": "鬼の王よ、あなたは己の力と仲間たちの結束によって、新たな時代を築くことができるでしょうか。強さこそが正義であることを世界に示し、偉大なる都を築くことができるでしょうか。",
+
+    "declaringWar": "さあ、楽しませてもらおうか。全力で来な！",
+
+    "attacked": "面白いじゃないか。そこまで覚悟があるなら相手をしてやる。",
+
+    "defeated": "まさか……力だけでは届かないものがあるとはな……。",
+
+    "introduction": "私は星熊勇儀。旧都を守る鬼の一人だ。",
+
+    "neutralHello": "珍しい客だね。まあ、一杯付き合っていきな。",
+
+    "hateHello": "まだ懲りずに来たのかい？",
+
+    "tradeRequest": "悪くない話だね。互いに楽しめそうじゃないか。",
+
+    "uniqueName": "Oni Supremacy",
+
+    "uniques": [
+        "[+25]% Strength <for [All] units>",
+        "[+20]% [Production] [in all cities]",
+        "[+2 Production] from every [Mine]",
+        "[+2 Happiness] from every [Granary]",
+        "[+15]% [Gold] [in all cities]",
+        "No damage penalty for wounded units <for [All] units>"
+    ],
+
+    "cities": [
+        "旧都",
+        "鬼の街",
+        "地底酒場",
+        "勇儀の館",
+        "鬼ヶ島",
+        "旧地獄門",
+        "灼熱街道",
+        "地下闘技場",
+        "鬼神殿",
+        "百鬼夜行の都"
+    ]
 }
 
 ]
