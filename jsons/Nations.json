@@ -21,7 +21,7 @@
     "uniqueName": "Hakurei Boundary",
 "uniques": [
 "[+4 Culture] from every [Shrine]",
-"[+3 Happiness] from every [Temple]",
+"[+3 Happiness] from every [Granary]",
 "[+20]% [Culture] [in all cities]",
 "[+15]% [Gold] [in all cities]",
 "[+1 Food] from every [Granary]",
@@ -67,8 +67,8 @@
     "uniqueName": "Scarlet Rule",
 "uniques": [
 "[+30]% Strength <for [All] units>",
-"[+20]% [Production] [in all cities]",
-"[+2 Gold] from every [Castle]",
+"[+25]% [Production] [in all cities]",
+"[+4 Gold] from every [Castle]",
 "[+2 Culture] from every [Barracks]",
 "[+25]% Great Person generation [in all cities]",
 "No damage penalty for wounded units <for [All] units>"
@@ -107,11 +107,11 @@
     "uniqueName": "Hourai Medicine",
 "uniques": [
 "[+40]% [Science] [in all cities]",
-"[+15]% [Food] [in all cities]",
+"[+25]% [Food] [in all cities]",
 "[+2 Science] from every [Hospital]",
 "[+2 Science] from every [University]",
-"[+1 Food] from every [University]",
-"[+15]% Great Person generation [in all cities]"
+"[+3 Food] from every [University]",
+"[+25]% Great Person generation [in all cities]"
 ],
 
     "cities": [
@@ -298,8 +298,8 @@
 "[+20]% [Science] [in all cities]",
 "[+2 Production] from every [Mine]",
 "[+1 Production] from every [Factory]",
-"[+1 Science] from every [Coal]",
-"[+15]% Strength <for [All] units>",
+"[+2 Science] from every [Coal]",
+"[+20]% Strength <for [All] units>",
 "[+30]% spy effectiveness [in all cities]"
 
 
@@ -349,13 +349,13 @@
 
 "uniqueName":"Prince of Seventeen Articles",
 "uniques": [
-"[+30]% [Gold] [in all cities]",
-"[+20]% [Culture] [in all cities]",
-"[+2 Gold] from every [Market]",
+"[+40]% [Gold] [in all cities]",
+"[+40]% [Culture] [in all cities]",
+"[+5 Gold] from every [Market]",
 "[+2 Culture] from every [Courthouse]",
-"[+15]% Great Person generation [in all cities]",
+"[+35]% Great Person generation [in all cities]",
 "[+10]% Strength <for [All] units>",
-"[+1 Happiness] from every [Temple]"
+"[+1 Happiness] from every [Granary]"
 ],
 "cities":[
 "神霊廟",
@@ -407,7 +407,7 @@
 "[+2 Science] from every [Research Lab]",
 "[+2 Science] from every [Observatory]",
 "[+1 Production] from every [Factory]",
-"[+15]% Strength <for [All] units>"
+"[+23]% Strength <for [All] units>"
 ],
 "cities":[
 "月の都",
@@ -454,11 +454,11 @@
     "uniqueName": "Oni Supremacy",
 
     "uniques": [
-        "[+25]% Strength <for [All] units>",
+        "[+30]% Strength <for [All] units>",
         "[+20]% [Production] [in all cities]",
-        "[+2 Production] from every [Mine]",
+        "[+3 Production] from every [Mine]",
         "[+2 Happiness] from every [Granary]",
-        "[+15]% [Gold] [in all cities]",
+        "[+5]% [Gold] [in all cities]",
         "No damage penalty for wounded units <for [All] units>"
     ],
 
